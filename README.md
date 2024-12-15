@@ -1,7 +1,7 @@
 📅 Event Hall Booking Web App
 Event Hall Booking is a smart, user-friendly web application designed to simplify the process of booking and managing seminar halls for departmental events. Whether you're organizing a workshop, seminar, or conference, this app ensures a seamless booking experience for staff while empowering administrators with full control over the bookings.
 
-🔗 Hosted Link: Event Hall Booking Web App
+🔗 Hosted Link:[ Event Hall Booking Web App](https://it-dept-event-hall-booking.vercel.app/)
 
 🌟 Features
 Staff Portal
